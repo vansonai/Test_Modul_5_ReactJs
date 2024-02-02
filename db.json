@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "Emma Brown",
+      "username": "emma_brown",
+      "email": "emma@example.com",
+      "phone": "1112223333",
+      "website": "emmabrown.com"
+    },
+    {
+      "id": "a3d0",
+      "name": "Savannah Woodard",
+      "email": "wyqarivefa@mailinator.com",
+      "phone": "0398789888"
+    },
+    {
+      "id": "3e27",
+      "name": "Evan Atkins",
+      "email": "lawideve@mailinator.com",
+      "phone": "79",
+      "website": "17"
+    },
+    {
+      "id": "f2be",
+      "name": "Lionel Brady",
+      "email": "fezonedyd@mailinator.com",
+      "phone": "0398789888",
+      "website": "5"
+    },
+    {
+      "id": "942d",
+      "name": "Lara Medina",
+      "email": "wobotosyge@mailinator.com",
+      "phone": "15",
+      "website": "14"
+    }
+  ]
+}
